@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Seed stage startups – Ryan Delk",
+    "audio": "/audio/delk.mp3",
+    "cover": "/img/ryan.jpg",
+    "description": "In this episode, me and ryan discuss the ins and outs of how money gets from the pockets of angel investors to those of founders. We go over alternative options to taking seed money and discuss why he chose to take money when founding primer."
+  },
+  {
+    "title": "Education and B2B startups – Daniel Blackman",
+    "audio": "/audio/blackman.mp3",
+    "cover": "/img/blackman.jpg",
+    "description": "Me and Daniel chat about a wide variety of things in this episode, mainly about the practical ways young founders, with relatively no experience can secure seed funding, or if they need any at all."
+  },
+  {
+    "title": "Emerging currencies - Maksim Stepanenko",
+    "audio": "/audio/maksim.mp3",
+    "cover": "/img/maksim.jpg",
+    "description": "This episode addresses new 'stablecoins', similar to bitcoin, that were recently approved for bank usage. Me and Maksim, one of the founders of USCD, chatted about what this means for the future and how we will see the responsibility of banking shift from large corperations, to startups."
+  }
+]
