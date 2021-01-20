@@ -39,11 +39,11 @@ const Bibliography = () => {
           http://www.paulgraham.com/startupideas.html
         </a>
         <p>
-          In this essay paul graham talks on how to make a successful startup
+          In this essay Graham talks about how to make a successful startup
           idea. The basic idea behind it is identifying a problem you face in
           your everyday life. Graham believes that the best startup ideas come
-          from necessity, they are organic and come from a lack of solutions in
-          the market. At the end, he gets to the root of how unglorious early
+          from necessity; they are organic and come from a lack of solutions in
+          the market. In the end, he gets to the root of how unglorious early
           startup life really is, mentioning long hours and strenuous
           situations.
         </p>
@@ -67,12 +67,12 @@ const Bibliography = () => {
           innovation. What we see here from one of the oldest banks, J.P.
           Morgan, is the integration of their own "stablecoin". The coin will
           match the dollar and allow a new easy of access to transferring money.
-          I do think, despite the upsides, this is a slippery slope. The way a
+          I do think, despite the upsides, this is a slippery slope. When a
           stablecoin is minted, is a dollar must always be held in a bank
           account, to give the coin value. If we see banks go out and start
           trading your money, it could leave stablecoin in a very dangerous
           spot. I also wonder how they will deal with the ledger, a{' '}
-          <i>public</i> database of all transactions that happen, based off of
+          <i>public</i> database of all transactions that happen, based on
           ethereum. This could clearly lead to some pretty serious privacy
           concerns that the author mentions.
         </p>
@@ -94,7 +94,7 @@ const Bibliography = () => {
           This piece by Dan Martell struck me how an economic downturn forces
           the talent pool to shrink, which then makes the employees better. He
           also claims a downturn forces people who are “true entrepreneurs” to
-          show their true colors and create a high quality startup, out of
+          show their true colors and create a high-quality startup, out of
           necessity and urgency. This idea is similar to that of Paul Graham, in
           that, the best businesses are created out of a real world problem.
         </p>
@@ -114,9 +114,9 @@ const Bibliography = () => {
         <p>
           Duhigg gives a great anecdote by mentioning WeWork, a company that
           originally looked promising to many investors, mainly Softbank.
-          Softbank, is infamous for outbidding competitors by a vast margin.
-          This hikes up the evaluation, and disguises the underlying problems,
-          which, in WeWork's cases, were quite significant.
+          Softbank is infamous for outbidding competitors by a vast margin. This
+          hikes up the evaluation, and disguises the underlying problems, which,
+          in WeWork's cases, were quite significant.
         </p>
       </div>
       <div className="mt-4">
@@ -132,10 +132,10 @@ const Bibliography = () => {
           https://www.bloomberg.com/news/articles/2019-08-08/low-wage-workers-lose-out-when-tech-jobs-gain
         </a>
         <p>
-          A term you hear a lot nowadays, "trickle down economics", may not work
+          A term you hear a lot nowadays, "trickle-down economics", may not work
           in tech, according to a new study. Mr. Florida dives into the study,
           stating that while teachers create a multiple of 2 low-pay jobs for
-          every 1 teaching position, while those in tech only make 0.7. This
+          every one teaching position, while those in tech only make 0.7. This
           makes sense, unlike more physical high-pay jobs (store managers,
           general managers) which can create smaller paying offshoots (janitors,
           cashiers). Tech is all done online, which means all the customer needs
@@ -157,10 +157,10 @@ const Bibliography = () => {
         <p>
           This news story reports on a recent partnership between one of the
           creators of USDC, a newly minted stablecoin, and Visa. What this means
-          for customers of Visa, is that they can begin to integrate USDC, which
+          for customers of Visa is that they can begin to integrate USDC, which
           is based on ethereum, another form of bitcoin into their software.
           USDC is almost the opposite of bitcoin, it matches the US dollar
-          exactly. The reason why this is very exciting, is because that it is a
+          exactly. The reason why this is very exciting is because that it is a
           crypto coin, it isn't subject to the same fees that would come with
           sending money in a more traditional way (eg. wire transfer).
         </p>
@@ -206,7 +206,7 @@ const Bibliography = () => {
           tells the "cautionary" tale of WeWork. A company plagued by
           overvaluation and under-deliverance. This created a large divide, and
           forced WeWork to be "the landlord and tenet". Their dramatic growth,
-          with a less-then optimal business plan, all lead to the failure of
+          with a less-than optimal business plan, all lead to the failure of
           WeWork.
         </p>
       </div>
